@@ -19,7 +19,7 @@ function Support() {
           <Obfuscate>{t("developers")}</Obfuscate>
         </div>
         <div className="itemtext">
-          <Obfuscate>Nebeung - {t("mainDevText")}</Obfuscate>
+          <Obfuscate>zek - {t("mainDevText")}</Obfuscate>
         </div>
         <div className="itemtext">
           <Obfuscate>Divide - {t("devText")}</Obfuscate>
